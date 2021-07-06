@@ -8,7 +8,7 @@ THIS IS NOT A CLEAN VERSION OF DREHMFLIGHT VTOL. UPDATES MADE FOR THE F-35 TRICO
 
 CLEAN VERSION AVAILABLE HERE: https://github.com/nickrehm/dRehmFlight
 
-Compatible F-35 Parts:
+**Compatible F-35 Parts:**
 
 **Motors:** https://amzn.to/3wma3CT
 
