@@ -18,6 +18,8 @@ ESC (x1): https://amzn.to/3wmjiD0
 
 Battery: https://amzn.to/2TEVEEp 
 
+Servos: https://amzn.to/3hEwgGH
+
 
 ## Overview
 This project is a work in progress, and was originally developed for research vehicle platforms at the University of Maryland Alfred Gessow Rotorcraft Center. Current Version: Beta 1.2.
