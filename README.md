@@ -10,15 +10,15 @@ CLEAN VERSION AVAILABLE HERE: https://github.com/nickrehm/dRehmFlight
 
 Compatible F-35 Parts:
 
-Motors: https://amzn.to/3wma3CT
+**Motors:** https://amzn.to/3wma3CT
 
-Propellers: https://amzn.to/3dMu52E
+**Propellers:** https://amzn.to/3dMu52E
 
-ESC: https://amzn.to/3wmjiD0
+**ESC:** https://amzn.to/3wmjiD0
 
-Battery: https://amzn.to/2TEVEEp 
+**Battery:** https://amzn.to/2TEVEEp 
 
-Servos: https://amzn.to/3hEwgGH
+**Servos:** https://amzn.to/3hEwgGH
 
 
 ## Overview
