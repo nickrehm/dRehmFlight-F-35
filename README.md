@@ -6,7 +6,18 @@
 
 THIS IS NOT A CLEAN VERSION OF DREHMFLIGHT VTOL. UPDATES MADE FOR THE F-35 TRICOPTER VTOL. CLEAN VERSION AVAILABLE HERE: https://github.com/nickrehm/dRehmFlight
 
-F-35 VIDEO: 
+PLEASE WATCH THE F-35 VIDEO FOR MORE INFORMATION ON THIS CODE VERSION: 
+
+Compatible F-35 Parts:
+
+Motors (x3): https://amzn.to/3wma3CT
+
+Propellers: https://amzn.to/3dMu52E
+
+ESC (x1): https://amzn.to/3wmjiD0
+
+Battery: https://amzn.to/2TEVEEp 
+
 
 ## Overview
 This project is a work in progress, and was originally developed for research vehicle platforms at the University of Maryland Alfred Gessow Rotorcraft Center. Current Version: Beta 1.2.
