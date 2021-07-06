@@ -4,6 +4,9 @@
 
 [RcGroups Support Thread](https://www.rcgroups.com/forums/showthread.php?3706571-dRehmFlight-VTOL-Teensy-Flight-Controller-and-Stabilization)
 
+THIS IS NOT A CLEAN VERSION OF DREHMFLIGHT VTOL. UPDATES MADE FOR THE F-35 TRICOPTER VTOL. CLEAN VERSION AVAILABLE HERE: https://github.com/nickrehm/dRehmFlight
+F-35 VIDEO: 
+
 ## Overview
 This project is a work in progress, and was originally developed for research vehicle platforms at the University of Maryland Alfred Gessow Rotorcraft Center. Current Version: Beta 1.2.
 
