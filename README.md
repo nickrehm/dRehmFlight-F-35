@@ -6,9 +6,9 @@
 
 ![F-35](https://github.com/nickrehm/dRehmFlight-F-35/blob/main/F-35.jpg)
 
-THIS IS NOT A CLEAN VERSION OF DREHMFLIGHT VTOL. UPDATES MADE FOR THE F-35 TRICOPTER VTOL: https://www.youtube.com/watch?v=RqdcZD0ZoUk
+THIS IS NOT A CLEAN VERSION OF DREHMFLIGHT VTOL. UPDATES MADE FOR THE F-35 TRICOPTER VTOL: [Watch the F-35 Video Here](https://www.youtube.com/watch?v=RqdcZD0ZoUk)
 
-CLEAN VERSION AVAILABLE HERE: [Watch the F-35 Video Here](https://github.com/nickrehm/dRehmFlight)
+CLEAN VERSION AVAILABLE HERE: https://github.com/nickrehm/dRehmFlight
 
 **Compatible F-35 Parts:**
 
