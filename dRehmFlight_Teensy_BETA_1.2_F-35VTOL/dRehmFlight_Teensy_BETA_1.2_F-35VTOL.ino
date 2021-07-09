@@ -4,6 +4,7 @@
 //Version: Beta 1.2 - F-35 VTOL
 
 //THIS IS NOT A CLEAN VERSION OF DREHMFLIGHT VTOL. UPDATES MADE FOR THE F-35 TRICOPTER VTOL. CLEAN VERSION AVAILABLE HERE: https://github.com/nickrehm/dRehmFlight
+//WATCH THE F-35 TUTORIAL VIDEO HERE: https://www.youtube.com/watch?v=RqdcZD0ZoUk
 
 /*
  * 
