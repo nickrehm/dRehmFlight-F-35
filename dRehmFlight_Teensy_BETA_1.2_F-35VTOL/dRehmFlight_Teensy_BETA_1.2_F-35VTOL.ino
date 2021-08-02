@@ -358,13 +358,13 @@ void setup() {
   delay(10);
 
   //Arm servo channels
-  servo1.write(0); //command servo angle from 0-180 degrees (1000 to 2000 PWM)
-  servo2.write(0);
-  servo3.write(0);
-  servo4.write(0);
-  servo5.write(0);
-  servo6.write(0);
-  servo7.write(0);
+  servo1.write(90); //command servo angle from 0-180 degrees (1000 to 2000 PWM)
+  servo2.write(90);
+  servo3.write(90);
+  servo4.write(90);
+  servo5.write(90);
+  servo6.write(90);
+  servo7.write(90);
   
   delay(10);
 
