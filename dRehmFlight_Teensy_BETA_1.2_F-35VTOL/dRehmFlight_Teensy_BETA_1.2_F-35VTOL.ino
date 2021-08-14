@@ -313,7 +313,7 @@ float nose_fader = 0.0;
 
 void setup() {
   Serial.begin(500000); //usb serial
-  //delay(3000); //3 second delay for plugging in battery before IMU calibration begins, feel free to comment this out to reduce boot time
+  delay(3000); //3 second delay for plugging in battery before IMU calibration begins, feel free to comment this out to reduce boot time
   
   //Initialize all pins
   pinMode(13, OUTPUT); //pin 13 LED blinker on board, do not modify 
