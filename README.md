@@ -16,7 +16,7 @@ CLEAN VERSION AVAILABLE HERE: https://github.com/nickrehm/dRehmFlight
 
 **Propellers:** https://amzn.to/3dMu52E
 
-**ESC:** https://amzn.to/3wmjiD0
+**ESC:** https://amzn.to/3B22aq0
 
 **Battery:** https://amzn.to/2TEVEEp 
 
