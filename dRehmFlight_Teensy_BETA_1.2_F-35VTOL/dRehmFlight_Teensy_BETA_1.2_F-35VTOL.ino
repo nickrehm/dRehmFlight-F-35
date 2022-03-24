@@ -313,7 +313,7 @@ float nose_fader = 0.0;
 
 void setup() {
   Serial.begin(500000); //usb serial
-  delay(3000); //3 second delay for plugging in battery before IMU calibration begins, feel free to comment this out to reduce boot time
+  delay(1000); //1 second delay for plugging in battery before IMU calibration begins, feel free to comment this out to reduce boot time
   
   //Initialize all pins
   pinMode(13, OUTPUT); //pin 13 LED blinker on board, do not modify 
@@ -376,14 +376,16 @@ void setup() {
   m5_command_PWM = 125;
   m6_command_PWM = 125;
   commandMotors();
-  
-  delay(100);
+  delay(10);
+  commandMotors();
+  delay(10);
+  commandMotors(); //some oneshot ESCs do not arm with only one command pulse for some reason...
 
   //Warm up the loop
-  //calibrateAttitude(); //helps to warm up IMU and Madgwick filter before finally entering main loop
+  //calibrateAttitude(); //helps to warm up IMU and Madgwick filter before finally entering main loop - not need for F-35
   
   //Indicate entering main loop with 3 quick blinks
-  setupBlink(3,160,70); //numBlinks, upTime (ms), downTime (ms)
+  setupBlink(3,100,30); //numBlinks, upTime (ms), downTime (ms)
 
   //If using MPU9250 IMU, uncomment for one-time magnetometer calibration (may need to repeat for new locations)
   //calibrateMagnetometer(); //generates magentometer error and scale factors
